@@ -1,5 +1,5 @@
 # 2D Menger Sponge
-Juste une éponge de Menger en 2d avec Javascript P5.js
+Juste une éponge de Menger en 2d avec P5.js
 
 
 ## Demo
